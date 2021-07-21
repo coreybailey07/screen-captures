@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/curriculum-vitae/static/css/main.40ac6a21.chunk.css",
+    "main.css": "/curriculum-vitae/static/css/main.e396e0ec.chunk.css",
     "main.js": "/curriculum-vitae/static/js/main.a18f76fe.chunk.js",
     "main.js.map": "/curriculum-vitae/static/js/main.a18f76fe.chunk.js.map",
     "runtime-main.js": "/curriculum-vitae/static/js/runtime-main.b7928a8f.js",
@@ -10,14 +10,14 @@
     "index.html": "/curriculum-vitae/index.html",
     "service-worker.js": "/curriculum-vitae/service-worker.js",
     "service-worker.js.map": "/curriculum-vitae/service-worker.js.map",
-    "static/css/main.40ac6a21.chunk.css.map": "/curriculum-vitae/static/css/main.40ac6a21.chunk.css.map",
+    "static/css/main.e396e0ec.chunk.css.map": "/curriculum-vitae/static/css/main.e396e0ec.chunk.css.map",
     "static/js/2.e6320423.chunk.js.LICENSE.txt": "/curriculum-vitae/static/js/2.e6320423.chunk.js.LICENSE.txt",
     "static/media/portfolio.style.scss": "/curriculum-vitae/static/media/icon-tag.a2aed8f2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b7928a8f.js",
     "static/js/2.e6320423.chunk.js",
-    "static/css/main.40ac6a21.chunk.css",
+    "static/css/main.e396e0ec.chunk.css",
     "static/js/main.a18f76fe.chunk.js"
   ]
 }
