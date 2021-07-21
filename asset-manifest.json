@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/screen-captures/static/css/main.a317328d.chunk.css",
+    "main.js": "/screen-captures/static/js/main.e7a50d5f.chunk.js",
+    "main.js.map": "/screen-captures/static/js/main.e7a50d5f.chunk.js.map",
+    "runtime-main.js": "/screen-captures/static/js/runtime-main.41d35434.js",
+    "runtime-main.js.map": "/screen-captures/static/js/runtime-main.41d35434.js.map",
+    "static/js/2.0bf2aecc.chunk.js": "/screen-captures/static/js/2.0bf2aecc.chunk.js",
+    "static/js/2.0bf2aecc.chunk.js.map": "/screen-captures/static/js/2.0bf2aecc.chunk.js.map",
+    "index.html": "/screen-captures/index.html",
+    "service-worker.js": "/screen-captures/service-worker.js",
+    "service-worker.js.map": "/screen-captures/service-worker.js.map",
+    "static/css/main.a317328d.chunk.css.map": "/screen-captures/static/css/main.a317328d.chunk.css.map",
+    "static/js/2.0bf2aecc.chunk.js.LICENSE.txt": "/screen-captures/static/js/2.0bf2aecc.chunk.js.LICENSE.txt",
+    "static/media/portfolio.style.scss": "/screen-captures/static/media/icon-tag.a2aed8f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41d35434.js",
+    "static/js/2.0bf2aecc.chunk.js",
+    "static/css/main.a317328d.chunk.css",
+    "static/js/main.e7a50d5f.chunk.js"
+  ]
+}
