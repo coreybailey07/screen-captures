@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/screen-captures/static/css/main.a317328d.chunk.css",
-    "main.js": "/screen-captures/static/js/main.e7a50d5f.chunk.js",
-    "main.js.map": "/screen-captures/static/js/main.e7a50d5f.chunk.js.map",
-    "runtime-main.js": "/screen-captures/static/js/runtime-main.41d35434.js",
-    "runtime-main.js.map": "/screen-captures/static/js/runtime-main.41d35434.js.map",
-    "static/js/2.0bf2aecc.chunk.js": "/screen-captures/static/js/2.0bf2aecc.chunk.js",
-    "static/js/2.0bf2aecc.chunk.js.map": "/screen-captures/static/js/2.0bf2aecc.chunk.js.map",
-    "index.html": "/screen-captures/index.html",
-    "service-worker.js": "/screen-captures/service-worker.js",
-    "service-worker.js.map": "/screen-captures/service-worker.js.map",
-    "static/css/main.a317328d.chunk.css.map": "/screen-captures/static/css/main.a317328d.chunk.css.map",
-    "static/js/2.0bf2aecc.chunk.js.LICENSE.txt": "/screen-captures/static/js/2.0bf2aecc.chunk.js.LICENSE.txt",
-    "static/media/portfolio.style.scss": "/screen-captures/static/media/icon-tag.a2aed8f2.svg"
+    "main.css": "/curriculum-vitae/static/css/main.40ac6a21.chunk.css",
+    "main.js": "/curriculum-vitae/static/js/main.a18f76fe.chunk.js",
+    "main.js.map": "/curriculum-vitae/static/js/main.a18f76fe.chunk.js.map",
+    "runtime-main.js": "/curriculum-vitae/static/js/runtime-main.b7928a8f.js",
+    "runtime-main.js.map": "/curriculum-vitae/static/js/runtime-main.b7928a8f.js.map",
+    "static/js/2.e6320423.chunk.js": "/curriculum-vitae/static/js/2.e6320423.chunk.js",
+    "static/js/2.e6320423.chunk.js.map": "/curriculum-vitae/static/js/2.e6320423.chunk.js.map",
+    "index.html": "/curriculum-vitae/index.html",
+    "service-worker.js": "/curriculum-vitae/service-worker.js",
+    "service-worker.js.map": "/curriculum-vitae/service-worker.js.map",
+    "static/css/main.40ac6a21.chunk.css.map": "/curriculum-vitae/static/css/main.40ac6a21.chunk.css.map",
+    "static/js/2.e6320423.chunk.js.LICENSE.txt": "/curriculum-vitae/static/js/2.e6320423.chunk.js.LICENSE.txt",
+    "static/media/portfolio.style.scss": "/curriculum-vitae/static/media/icon-tag.a2aed8f2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.41d35434.js",
-    "static/js/2.0bf2aecc.chunk.js",
-    "static/css/main.a317328d.chunk.css",
-    "static/js/main.e7a50d5f.chunk.js"
+    "static/js/runtime-main.b7928a8f.js",
+    "static/js/2.e6320423.chunk.js",
+    "static/css/main.40ac6a21.chunk.css",
+    "static/js/main.a18f76fe.chunk.js"
   ]
 }
