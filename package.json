@@ -1,8 +1,8 @@
 {
-  "name": "react-curriculum-vitae",
+  "name": "screen-captures",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://coreybailey07.github.io/curriculum-vitae",
+  "homepage": "https://coreybailey07.github.io/screen-captures",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
