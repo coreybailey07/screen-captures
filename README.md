@@ -1,5 +1,5 @@
 screen-captures
-================
+===============
 
 [Screen Captures](https://coreybailey07.github.io/screen-captures) shows past projects I worked on for clients.
 
