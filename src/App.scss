@@ -1,0 +1,13 @@
+nav, a {
+  color: #FFFFFF;
+}
+
+nav .link {
+  display: inline;
+  padding: 0 10px;
+  border-left: solid 1px #FFFFFF;
+}
+
+nav .link:first-child {
+  border-left: none;
+}
