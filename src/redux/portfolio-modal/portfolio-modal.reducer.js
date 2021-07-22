@@ -58,7 +58,7 @@ const INITIAL_STATE = {
       id: 'modal-07',
       imgSrc: 'fedbid-whitelabel-dhs-dashboard.png',
       title: 'FedBid - DHS theme',
-      description: 'FedBid is a white-label site allowing organization to match their themes. Frontend built using handcraft CSS, JQuery and various libraries.',
+      description: 'FedBid with DHS theme. Frontend built using handcraft CSS, JQuery and various libraries.',
       category: [
         'White-label', 'Web Design'
       ],
