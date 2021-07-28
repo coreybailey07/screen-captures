@@ -4,6 +4,7 @@ import { Route, Switch, Link } from 'react-router-dom';
 import './App.scss';
 
 import B2Buy from './component/portfolio/b2buy.component';
+import FedBid from './component/portfolio/fedbid.component';
 
 class App extends React.Component {
   constructor() {
