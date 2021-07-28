@@ -4,6 +4,7 @@ import { Route, Switch, Link } from 'react-router-dom';
 import './App.scss';
 
 import Portfolio from './component/portfolio/portfolio.component';
+import B2Buy from './component/portfolio/b2buy.component';
 
 class App extends React.Component {
   constructor() {
@@ -23,7 +24,8 @@ class App extends React.Component {
         </nav>
         <main>
           <Switch>
-            <Route exact path='/screen-captures/b2buy/' render={() => (<Portfolio portfolioPath='images/portfolio2/'/>)} />
+    {/*<Route exact path='/screen-captures/b2buy/' render={() => (<Portfolio portfolioPath='images/portfolio2/'/>)} />*/}
+            <Route exact path='/screen-captures/b2buy/' render={() => (<B2Buy b2buyPath='images/portfolio2/'/>)} />
           </Switch>
         </main>
       </div>
