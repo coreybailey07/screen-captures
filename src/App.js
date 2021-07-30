@@ -5,21 +5,27 @@ import './App.scss';
 import B2Buy from './component/portfolio/b2buy.component';
 import FedBid from './component/portfolio/fedbid.component';
 
+const Home = () => (
+  <div>
+  <p><small>This repository is a quick way for me to throw up screen captures of present or past projects.<br />
+    Hover over the links above for a brief overview of each project.</small></p>
+  </div>
+);
+
 function App() {
   return (
-    <div className='app'>
+    <div className='app'> 
+      {/* baseurl set in BrowserRouter */}
       <nav className='nav'>
-        <Link className='link' to='/screen-captures/b2buy'>B2Buy</Link>
-        <Link className='link' to='/screen-captures/fedbid'>FedBid</Link>
+        <Link className='link' to='/'>Home</Link>
+        <Link className='link' to='/b2buy'>B2Buy</Link>
+        <Link className='link' to='/fedbid'>FedBid</Link>
       </nav>
       <main>
         <Switch>
-          <Route exact path='/screen-captures/b2buy'>
-            <B2Buy b2buyPath='images/portfolio2/' />
-          </Route>
-          <Route exact path='/screen-captures/fedbid'>
-            <FedBid fedbidPath='images/portfolio2/' />
-          </Route>
+          <Route exact path='/' component={Home} />
+          <Route path='/b2buy' render={() => (<B2Buy b2buyPath='images/portfolio2/' />)} />
+          <Route path='/fedbid' render={() => (<FedBid fedbidPath='images/portfolio2/' />)} />
         </Switch>
       </main>
     </div>

@@ -1,9 +1,10 @@
-main, nav, a {
-  color: #FFFFFF;
-}
-
 main, nav .link {
   padding: 0 10px;
+}
+
+nav, a {
+  background-color: #000000;
+  color: #FFFFFF;
 }
 
 nav .link {

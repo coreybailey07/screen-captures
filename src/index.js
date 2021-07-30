@@ -12,7 +12,7 @@ import './index.css';
 
 ReactDOM.render(
   <Provider store={store}>
-    <BrowserRouter>
+    <BrowserRouter basename="/screen-captures" forceRefresh={true}>
       <App />
     </BrowserRouter>
   </Provider>,
