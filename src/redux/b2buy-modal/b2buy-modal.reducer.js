@@ -45,51 +45,15 @@ const INITIAL_STATE = {
         'Web Design', 'E-Commerce'
       ],
       projectLink: ''
-    }, {
-      id: 'modal-06',
-      imgSrc: 'fedbid-seller-dashboard.png',
-      title: 'FedBid',
-      description: 'FedBid Marketplace is full-service online platform where Buyers source products and services and vendors compete and win on a level playing field. Frontend built using handcraft CSS, JQuery and various libraries.',
-      category: [
-        'White-label', 'Web Design'
-      ],
-      projectLink: ''
-    }, {
-      id: 'modal-07',
-      imgSrc: 'fedbid-whitelabel-dhs-dashboard.png',
-      title: 'FedBid - DHS theme',
-      description: 'FedBid with DHS theme. Frontend built using handcraft CSS, JQuery and various libraries.',
-      category: [
-        'White-label', 'Web Design'
-      ],
-      projectLink: ''
-    }, {
-      id: 'modal-08',
-      imgSrc: 'fedbid-whitelabel-navy-dashboard.png',
-      title: 'FedBid - Navy theme',
-      description: 'FedBid with Navy theme. Frontend built using handcraft CSS, JQuery and various libraries.',
-      category: [
-        'White-label', 'Web Design'
-      ],
-      projectLink: ''
-    } , {
-      id: 'modal-09',
-      imgSrc: 'fedbid-whitelabel-navy-login.png',
-      title: 'FedBid - Navy theme',
-      description: 'FedBid with Navy theme. Frontend built using handcraft CSS, JQuery and various libraries.',
-      category: [
-        'White-label', 'Web Design'
-      ],
-      projectLink: ''
     }
   ]
 };
 
-const portfolioModalReducer = (state = INITIAL_STATE, action) => {
+const b2buyModalReducer = (state = INITIAL_STATE, action) => {
   switch (action.type) {
     default:
       return state;
   }
 };
 
-export default portfolioModalReducer;
+export default b2buyModalReducer;

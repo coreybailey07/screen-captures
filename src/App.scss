@@ -1,0 +1,21 @@
+main, nav .link {
+  padding: 0 10px;
+}
+
+nav, a {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+nav .link {
+  display: inline;
+  border-left: solid 1px #FFFFFF;
+}
+
+nav .link:first-child {
+  border-left: none;
+}
+
+body {
+  background: #eff0f0 !important;
+}

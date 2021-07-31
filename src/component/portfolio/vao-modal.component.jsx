@@ -2,16 +2,16 @@ import React from 'react';
 import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
 
-import { selectPortfolioModalItem } from '../../redux/portfolio-modal/portfolio-modal.selector';
+import { selectVAOModalItem } from '../../redux/vao-modal/vao-modal.selector';
 
 import './portfolio.style.scss';
 
-const PortfolioModal = ({ portfolioModal, portfolioPath }) => (
+const VAOModal = ({ vaoModal, vaoPath }) => (
 
-  portfolioModal.map((modal, i) => (
+  vaoModal.map((modal, i) => (
     <div key={i} id={modal.id} hidden>
       <div className='modal-popup'>
-        <img src={`${portfolioPath}gallery/g-${modal.imgSrc}`} alt={modal.title} />
+        <img src={`${vaoPath}gallery/g-${modal.imgSrc}`} alt={modal.title} />
         <div className='modal-popup__desc'>
           <h5>{modal.title}</h5>
           <p>{modal.description}</p>
@@ -29,7 +29,7 @@ const PortfolioModal = ({ portfolioModal, portfolioPath }) => (
 )
 
 const mapStateToProps = createStructuredSelector({
-  portfolioModal: selectPortfolioModalItem
+  vaoModal: selectVAOModalItem
 })
 
-export default connect(mapStateToProps)(PortfolioModal);
+export default connect(mapStateToProps)(VAOModal);
