@@ -1,27 +1,24 @@
-import { Route, Switch, Link } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom';
 
-import './App.scss';
-
+import Nav from './component/nav/nav.component'
 import B2Buy from './component/portfolio/b2buy.component';
 import FedBid from './component/portfolio/fedbid.component';
 import VAO from './component/portfolio/vao.component';
 
+import './App.scss';
+
 const Home = () => (
   <div>
-  <p><small>This repository is a quick way for me to throw up screen captures of present or past projects.<br />
-    Hover over the links above for a brief overview of each project.</small></p>
+    <p><small>This repository is a quick way for me to throw up screen captures of present or past projects.<br />
+      Hover over the links above for a brief overview of each project.</small></p>
   </div>
 );
 
 function App() {
   return (
-    <div className='app'> 
+    <div className='app'>
       {/* baseurl set in BrowserRouter */}
-      <nav className='nav'>
-        <Link className='link' to='/'>Home</Link>
-        <Link className='link' to='/b2buy'>B2Buy</Link>
-        <Link className='link' to='/fedbid'>FedBid</Link>
-      </nav>
+      <Nav />
       <main>
         <Switch>
           <Route exact path='/' component={Home} />
