@@ -4,6 +4,7 @@ import './App.scss';
 
 import B2Buy from './component/portfolio/b2buy.component';
 import FedBid from './component/portfolio/fedbid.component';
+import VAO from './component/portfolio/vao.component';
 
 const Home = () => (
   <div>
@@ -26,6 +27,7 @@ function App() {
           <Route exact path='/' component={Home} />
           <Route path='/b2buy' render={() => (<B2Buy b2buyPath='images/portfolio2/' />)} />
           <Route path='/fedbid' render={() => (<FedBid fedbidPath='images/portfolio2/' />)} />
+          <Route path='/vao' render={() => (<VAO vaoPath='images/portfolio2/' />)} />
         </Switch>
       </main>
     </div>

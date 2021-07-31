@@ -1,0 +1,7 @@
+.block-large-1-4 > .column {
+  max-width: 24% !important;
+}
+
+body {
+  background: #eff0f0 !important;
+}
