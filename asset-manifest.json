@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/screen-captures/static/css/main.c85e1613.chunk.css",
-    "main.js": "/screen-captures/static/js/main.ed40bb46.chunk.js",
-    "main.js.map": "/screen-captures/static/js/main.ed40bb46.chunk.js.map",
+    "main.css": "/screen-captures/static/css/main.7f5efc54.chunk.css",
+    "main.js": "/screen-captures/static/js/main.9d053a47.chunk.js",
+    "main.js.map": "/screen-captures/static/js/main.9d053a47.chunk.js.map",
     "runtime-main.js": "/screen-captures/static/js/runtime-main.41d35434.js",
     "runtime-main.js.map": "/screen-captures/static/js/runtime-main.41d35434.js.map",
     "static/css/2.4bd93305.chunk.css": "/screen-captures/static/css/2.4bd93305.chunk.css",
@@ -12,7 +12,7 @@
     "service-worker.js": "/screen-captures/service-worker.js",
     "service-worker.js.map": "/screen-captures/service-worker.js.map",
     "static/css/2.4bd93305.chunk.css.map": "/screen-captures/static/css/2.4bd93305.chunk.css.map",
-    "static/css/main.c85e1613.chunk.css.map": "/screen-captures/static/css/main.c85e1613.chunk.css.map",
+    "static/css/main.7f5efc54.chunk.css.map": "/screen-captures/static/css/main.7f5efc54.chunk.css.map",
     "static/js/2.88a19420.chunk.js.LICENSE.txt": "/screen-captures/static/js/2.88a19420.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/screen-captures/static/media/outline-icons.ddae9b1b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.41d35434.js",
     "static/css/2.4bd93305.chunk.css",
     "static/js/2.88a19420.chunk.js",
-    "static/css/main.c85e1613.chunk.css",
-    "static/js/main.ed40bb46.chunk.js"
+    "static/css/main.7f5efc54.chunk.css",
+    "static/js/main.9d053a47.chunk.js"
   ]
 }
