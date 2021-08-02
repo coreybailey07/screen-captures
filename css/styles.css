@@ -1581,7 +1581,7 @@ html, body {
 }
 
 body {
-    background: var(--color-bg);
+    background: var(--color-gray-1);
     font-family: var(--font-1);
     font-size: var(--text-size);
     font-style: normal;

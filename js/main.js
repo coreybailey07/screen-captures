@@ -301,16 +301,16 @@
     * ------------------------------------------------------ */
     (function ssInit() {
 
-        ssPreloader();
+        //ssPreloader();
         //ssParallax();
-        ssMoveHeader();
-        ssMobileMenu();
+        //ssMoveHeader();
+        //ssMobileMenu();
         //ssScrollSpy();
-        ssSwiper();
+        //ssSwiper();
         ssLightbox();
-        ssAlertBoxes();
-        ssSmoothScroll();
-        ssBackToTop();
+        //ssAlertBoxes();
+        //ssSmoothScroll();
+        //ssBackToTop();
 
     })();
 
