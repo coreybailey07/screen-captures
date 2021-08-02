@@ -4,7 +4,7 @@ const INITIAL_STATE = {
       id: 'modal-01',
       imgSrc: 'b2buy-desktop_1.png',
       title: 'B2Buy Desktop',
-      description: 'This screen capture shows the B2Buy workflow. It provides users an overview of the buying/selling process on the platform. A small call to action is present with popular categories offered as a suggestion. Built using bootstrap 3, Fontawesome 4 and LessCSS',
+      description: 'This screen capture shows the B2Buy workflow. It provided users an overview of the buying/selling process on the platform. A small call to action is present with popular categories offered as a suggestion. Built using bootstrap 3, Fontawesome 4 and LessCSS',
       category: [
         'Web Design', 'E-Commerce'
       ],

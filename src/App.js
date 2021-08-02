@@ -5,7 +5,7 @@ import B2Buy from './component/portfolio/b2buy.component';
 import FedBid from './component/portfolio/fedbid.component';
 import VAO from './component/portfolio/vao.component';
 
-import './App.scss';
+import './app.scss';
 
 const Home = () => (
   <div>
@@ -17,7 +17,6 @@ const Home = () => (
 function App() {
   return (
     <div className='app'>
-      {/* baseurl set in BrowserRouter */}
       <Nav />
       <main>
         <Switch>
