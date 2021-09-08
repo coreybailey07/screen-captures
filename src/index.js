@@ -12,7 +12,7 @@ import './index.scss';
 
 ReactDOM.render(
   <Provider store={store}>
-    <BrowserRouter basename="/screen-captures" forceRefresh={true}>
+    <BrowserRouter basename={process.env.PUBLIC_URL} forceRefresh={true}>
       <App />
     </BrowserRouter>
   </Provider>,
